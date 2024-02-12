@@ -1,0 +1,42 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+
+# Carpeta de archivos compilados / bytecode
+__pycache__/
+
+# Carpeta de entorno virtual (si estás usando uno)
+venv/
+env/
+
+# Archivo de registro de dependencias
+requirements.txt
+
+datasets/
+
+generate_data_extract_generators/
+
+
+
+
+
+
+
+# Archivos de registros o bitácoras
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Archivos de IDE o editores de texto
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de caché
+*.swp
+just_in_case_model_saved.pt
+models.py
+most_trained.pt
+non_markovian.ipynb
+utils.py
